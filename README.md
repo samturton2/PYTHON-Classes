@@ -7,7 +7,6 @@
 
 - Encapsulation
   - **Reduce complexity and increase reusability**
-  - 
 
 - Abstraction
   - **reduce complexity and isolate impact of changes**
